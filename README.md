@@ -1,9 +1,5 @@
 # PyBer_Analysis
 
-Overview of the analysis: Explain the purpose of the new analysis.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
 ### Goal of Analysis: Using rideshare data gathered from 2019, charts were created to visualize differences in drivers, fares, and number of rides depending on the city type. A multiple-line graph  shows the total weekly fares for each city type. 
 
 ### Results:
